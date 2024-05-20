@@ -1,5 +1,40 @@
-# 💫 About Me:
-# Hello! 👋 I'm Ibrahin Perez<br><br>## Mobile Application Developer<br><br>Welcome to my GitHub repository! Here you’ll find a selection of my most exciting and challenging projects in the world of mobile development. My passion for technology and innovation drives me to create applications that not only work but also provide exceptional user experiences. 🚀<br><br>### Who Am I?<br><br>I am a software developer with 4 years of experience in creating mobile applications for the Android platform. My goal is to transform ideas into functional and visually appealing apps, using the latest technologies and development practices.<br><br>### 🔧 Technologies and Tools I Use<br><br>- **Languages:** Kotlin, Java<br>- **Frameworks and Libraries:** Jetpack Compose, Retrofit, Dagger, Coroutines<br>- **Tools:** Android Studio, Git, Firebase, RESTful APIs<br>- **Methodologies:** Agile, Scrum, TDD (Test Driven Development)<br><br>### 🌟 Highlighted Projects<br><br>1. **Little Lemon App**: A revolutionary app that Example of food ordering app using Jetpack Compose. This is the final project of Android Developer Professional Certificate for Meta Program.<br>2. **Pokedex Compose**: A creative app of consuming REST APIs in android applications using Jetpack Compose based on MVVM Architecture (ViewModel, Coroutines, Flow, Room, Repository, Coil)..<br><br>Each of these projects reflects my commitment to excellence and my ability to tackle complex challenges, from conception to implementation and maintenance.<br><br>### 🌱 What I'm Learning<br><br>I am currently delving deeper into development with Jetpack Compose and exploring new ways to enhance user experience through smooth animations and transitions. I am also interested in integrating artificial intelligence and machine learning into mobile applications.<br><br>### 📫 Connect With Me!<br><br>I am always open to new opportunities and collaborations. If you have any questions or just want to chat about technology, feel free to reach out.<br><br>- **Email:** iptrianaa@gmail.com<br>- **LinkedIn:** https://www.linkedin.com/in/ibrahin-perez-486929231/<br><br>Thank you for visiting my profile! I hope you enjoy exploring my projects as much as I enjoyed creating them. 🚀<br><br>---<br>
+# Hello! 👋 I'm Ibrahin Perez
+
+## Mobile Application Developer
+
+Welcome to my GitHub repository! Here you’ll find a selection of my most exciting and challenging projects in the world of mobile development. My passion for technology and innovation drives me to create applications that not only work but also provide exceptional user experiences. 🚀
+
+### Who Am I?
+
+I am a software developer with 4 years of experience in creating mobile applications for the Android platform. My goal is to transform ideas into functional and visually appealing apps, using the latest technologies and development practices.
+
+### 🔧 Technologies and Tools I Use
+
+- **Languages:** Kotlin, Java
+- **Frameworks and Libraries:** Jetpack Compose, Retrofit, Dagger, Coroutines
+- **Tools:** Android Studio, Git, Firebase, RESTful APIs
+- **Methodologies:** Agile, Scrum, TDD (Test Driven Development)
+
+### 🌟 Highlighted Projects
+
+1. **Litlle Lemon App**: Example of food ordering app using Jetpack Compose. This is the final project of Android Developer Professional Certificate for Meta Program..
+2. **Pokedex COmpose**: A creative example app of consuming REST APIs in android applications using Jetpack Compose based on MVVM Architecture (ViewModel, Coroutines, Flow, Room, Repository, Coil).
+
+Each of these projects reflects my commitment to excellence and my ability to tackle complex challenges, from conception to implementation and maintenance.
+
+### 🌱 What I'm Learning
+
+I am currently delving deeper into development with Jetpack Compose and exploring new ways to enhance user experience through smooth animations and transitions. I am also interested in integrating artificial intelligence and machine learning into mobile applications.
+
+### 📫 Connect With Me!
+
+I am always open to new opportunities and collaborations. If you have any questions or just want to chat about technology, feel free to reach out.
+
+- **Email:** iptrianaa@gmail.com
+- **LinkedIn:** [Ibrahin Perez](https://www.linkedin.com/in/ibrahin-perez-486929231/)
+- **Upwork:** [Ibrahin P.](https://www.upwork.com/freelancers/~01654deae2f2e93905?mp_source=share)
+
+Thank you for visiting my profile! I hope you enjoy exploring my projects as much as I enjoyed creating them. 🚀
 
 
 # 💻 Tech Stack:
