@@ -21,7 +21,7 @@ Each of these projects reflects my commitment to excellence and my ability to ta
 
 ### 🌱 What I'm Learning
 
-I am currently delving deeper into development with Jetpack Compose and exploring new ways to enhance user experience through smooth animations and transitions. I am also interested in integrating artificial intelligence and machine learning into mobile applications.
+I am currently delving deeper into development with Jetpack Compose, Multiplatform Development and exploring new ways to enhance user experience through smooth animations and transitions. I am also interested in integrating artificial intelligence and machine learning into mobile applications.
 
 ### 📫 Connect With Me!
 
