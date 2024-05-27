@@ -31,9 +31,11 @@ I am currently delving deeper into development with Jetpack Compose and explorin
 
 I am always open to new opportunities and collaborations. If you have any questions or just want to chat about technology, feel free to reach out.
 
-- **Email:** iptrianaa@gmail.com
-- **LinkedIn:** [Ibrahin Perez](https://www.linkedin.com/in/ibrahin-perez-486929231/)
-- **Upwork:** [Ibrahin P.](https://www.upwork.com/freelancers/~01654deae2f2e93905?mp_source=share)
+[![Gmail](https://img.icons8.com/ios-glyphs/60/ffffff/gmail.png)](mailto:iptrianaa@gmail.com)
+[![LinkedIn](https://img.icons8.com/ios-glyphs/60/ffffff/linkedin.png)]([IbrahinP.](https://www.linkedin.com/in/ibrahin-perez-486929231/))
+[![Upwork](https://img.icons8.com/?size=60&id=2y_wcSzVjqiQ&format=png&color=ffffff)]([Ibrahin](https://www.upwork.com/freelancers/~01654deae2f2e93905?mp_source=share))
+[![Twitter](https://img.icons8.com/ios-glyphs/60/ffffff/twitter.png)](https://twitter.com/your-profile)
+
 
 Thank you for visiting my profile! I hope you enjoy exploring my projects as much as I enjoyed creating them. 🚀
 
