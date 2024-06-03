@@ -1,4 +1,5 @@
 # Hello! 👋 I'm Ibrahin Perez
+![Banner](https://github.com/Iptriana98/Iptriana98/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.jpg)
 
 ## Mobile Application Developer
 
@@ -9,8 +10,45 @@ Welcome to my GitHub repository! Here you’ll find a selection of my most excit
 
 # 🌟 Highlighted Projects
 
-1. **Litlle Lemon App**: Example of food ordering app using Jetpack Compose. This is the final project of Android Developer Professional Certificate for Meta Program..
-2. **Pokedex COmpose**: A creative example app of consuming REST APIs in android applications using Jetpack Compose based on MVVM Architecture (ViewModel, Coroutines, Flow, Room, Repository, Coil).
+## [Voyage](https://github.com/Iptriana98/Voyage)
+
+🛳️ **Voyage** is a basic example of how to create an Android app that allows you to search for tourist destinations.
+
+![Captura de Pantalla](https://github.com/Iptriana98/Voyage/blob/main/Screenshots/Apple%20iPhone%2011%20Pro%20Max%20Presentation%20(1).png)
+
+## Features
+
+- **Simple Search:** Allows searching for destinations by city or country name. 🔍
+- **Basic Information:** Displays basic information about each destination (name, description, image). ℹ️
+- **Simple Interface:** Uses a basic user interface for easy navigation. 🧭
+---
+
+## [Little Lemon](https://github.com/Iptriana98/little-lemon)
+
+🍕 **Little Lemon** is an example of food ordering app using jetpack compose. This is the final project of Android Developer Professional Certificate for Meta Program.
+
+![Captura de Pantalla](https://github.com/Iptriana98/little-lemon/blob/main/Wireframe/Apple%20iPhone%2011%20Pro%20Max%20Presentation%20(2).png)
+
+## Features
+
+- **Simple Search:** Allows searching for diferent kind of meals. 🔍
+- **Basic Information:** Displays basic information about each meal (name, description, image). ℹ️
+- **Simple Interface:** Uses a basic user interface for easy navigation. 🧭
+---
+
+## [Olley](https://github.com/Iptriana98/Olly)
+
+🚀 **Olley Bank Simulator** is a mobile application that allows users to view their account balance and track their transaction history.
+
+![Captura de Pantalla](https://github.com/Iptriana98/Olly/blob/main/Screenshots/Apple%20iPhone%2011%20Pro%20Max%20Presentation.png)
+
+## Features
+
+- 📊 **View Account Overview**: Easily view of your current accounts and balances.
+- 📜 **Transaction History**: View a list of all transactions including deposits, withdrawals, and
+  transfers.
+- 🔔 **Alerts**: List of alerts.
+---
 
 Each of these projects reflects my commitment to excellence and my ability to tackle complex challenges, from conception to implementation and maintenance.
 
