@@ -1,7 +1,3 @@
-# Hello! 👋 I'm Ibrahin Perez
-
-Welcome to my GitHub repository! Here you’ll find a selection of my most exciting and challenging projects in the world of mobile development. My passion for technology and innovation drives me to create applications that not only work but also provide exceptional user experiences. 🚀
-
 # 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iptriana98&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
